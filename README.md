@@ -45,14 +45,8 @@ The main goal of this internship was to help build real skills in data science a
 -  `Objective:` Analyze spread and recovery patterns  
 -  `Key Tasks:` Time-series data handling, country-wise trends, case visualization  
 -  `Tech Stack:` Python, Pandas, Plotly, Seaborn  
--  `Screenshot:`<p align="center">
-  <img src="![Screenshot 2025-07-04 094135](https://github.com/user-attachments/assets/e3f758a1-14ca-40d5-a973-3e5930edf295)
-" width="200"/>
-  <img src="![Screenshot 2025-07-04 094152](https://github.com/user-attachments/assets/3563f04e-c765-418e-9a5f-bfe165e4ac55)
-" width="200"/>
-  <img src="![Screenshot 2025-07-04 094226](https://github.com/user-attachments/assets/fd16fc66-c488-4f19-8d4c-c657ee15eda3)
-" width="200"/>
-</p>
+-  `Screenshot:`![image](https://github.com/user-attachments/assets/25a85839-2b1d-4789-9332-fc2a1532d111)
+
 
 
 
