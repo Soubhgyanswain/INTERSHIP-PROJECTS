@@ -66,7 +66,8 @@ The main goal of this internship was to help build real skills in data science a
 -  `Objective:` Predict and analyze student academic performance  
 -  `Key Tasks:` Analyze scores, study time, failure rates, dashboard UI  
 -  `Tech Stack:` Python, Streamlit / Excel  
--  `Screenshot:` ![Student Dashboard](screenshots/student.png)
+-  `Screenshot:` ![image](https://github.com/user-attachments/assets/fca6c09b-9da8-4372-ae6c-2ad1bbbca287)
+
 
 ---
 
