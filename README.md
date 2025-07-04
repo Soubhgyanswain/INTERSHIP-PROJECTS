@@ -91,7 +91,7 @@ The main goal of this internship was to help build real skills in data science a
 -  `Objective:` Forecast future sales using regression models  
 -  `Key Tasks:` Train Linear/Tree regressors, evaluate RMSE/R² metrics  
 -  `Tech Stack:` Python, Scikit-learn, Seaborn  
--  `Screenshot:` ![Sales Screenshot](screenshots/sales.png)
+-  `Screenshot:` <img src="https://github.com/user-attachments/assets/4f5a1437-baff-4ea4-a7a9-1ae9c32cd167" width="600"/>
 
 ---
 
@@ -100,5 +100,5 @@ The main goal of this internship was to help build real skills in data science a
 -  `Objective:` Segment customers using clustering techniques  
 -  `Key Tasks:` Apply K-Means, visualize clusters, Elbow method validation  
 -  `Tech Stack:` Python, Scikit-learn, Seaborn  
--  `Screenshot:` ![KMeans Screenshot](screenshots/kmeans.png)
+-  `Screenshot:` <img src="https://github.com/user-attachments/assets/17ddbb42-0be3-4f89-9ac0-28997b1a454b" width="600"/>
 
