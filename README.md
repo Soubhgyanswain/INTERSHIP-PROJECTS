@@ -45,9 +45,7 @@ The main goal of this internship was to help build real skills in data science a
 -  `Objective:` Analyze spread and recovery patterns  
 -  `Key Tasks:` Time-series data handling, country-wise trends, case visualization  
 -  `Tech Stack:` Python, Pandas, Plotly, Seaborn  
--  `Screenshot:`![image](https://github.com/user-attachments/assets/25a85839-2b1d-4789-9332-fc2a1532d111)
-
-
+-  `Screenshot:`<img src="https://github.com/user-attachments/assets/c4261cb6-1ac1-450c-a769-7d1dfaca58ef" width="600"/>
 
 
 ---
@@ -57,8 +55,7 @@ The main goal of this internship was to help build real skills in data science a
 -  `Objective:` Understand content consumption patterns on Netflix  
 -  `Key Tasks:` Analyze genres, peak viewing times, user behavior visualizations  
 -  `Tech Stack:` Python, Matplotlib, Seaborn  
--  `Screenshot:` ![Netflix Screenshot](screenshots/netflix.png)
-
+-  `Screenshot:` <img src="https://github.com/user-attachments/assets/79bb37c8-3b1a-49a5-9b0c-419558aead1e" width="600"/>
 ---
 
 ### 4. Student Performance Dashboard
@@ -66,7 +63,7 @@ The main goal of this internship was to help build real skills in data science a
 -  `Objective:` Predict and analyze student academic performance  
 -  `Key Tasks:` Analyze scores, study time, failure rates, dashboard UI  
 -  `Tech Stack:` Python, Streamlit / Excel  
--  `Screenshot:` ![image](https://github.com/user-attachments/assets/fca6c09b-9da8-4372-ae6c-2ad1bbbca287)
+-  `Screenshot:` <img src="https://github.com/user-attachments/assets/fca6c09b-9da8-4372-ae6c-2ad1bbbca287" width="600"/>
 
 
 ---
@@ -76,7 +73,7 @@ The main goal of this internship was to help build real skills in data science a
 -  `Objective:` Extract insights from e-commerce transaction data  
 -  `Key Tasks:` RFM analysis, purchase patterns, customer behavior  
 -  `Tech Stack:` Python, Pandas, Seaborn  
--  `Screenshot:` ![Ecommerce Screenshot](screenshots/ecommerce.png)
+-  `Screenshot:` <img src="https://github.com/user-attachments/assets/ef548869-5162-4825-9b2a-e10a21a9abb6" width="600"/>
 
 ---
 
@@ -85,7 +82,7 @@ The main goal of this internship was to help build real skills in data science a
 -  `Objective:` Analyze and forecast traffic congestion  
 -  `Key Tasks:` Study traffic patterns, peak hours, predictive modeling (optional)  
 -  `Tech Stack:` Python, Streamlit, Google Maps API (optional)  
--  `Screenshot:` ![Traffic Screenshot](screenshots/traffic.png)
+-  `Screenshot:` <img src="https://github.com/user-attachments/assets/61bbdd8e-3ffe-4214-8d52-eb47d76b7e95" width="600"/>
 
 ---
 
