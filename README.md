@@ -88,7 +88,7 @@ The main goal of this internship was to help build real skills in data science a
 
 ---
 
-### 7. Sales Forecasting (Regression)
+### 7. Sales Forecasting (Regression)  ** PENDING
 
 -  `Objective:` Forecast future sales using regression models  
 -  `Key Tasks:` Train Linear/Tree regressors, evaluate RMSE/R² metrics  
