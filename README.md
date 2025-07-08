@@ -1,4 +1,4 @@
-### 📚 Tamizhan Skills Internship Projects
+<h1 align="center" id="title">📚 Tamizhan Skills Internship Projects</h1>
 This repository includes 6 practical projects completed (out of 8) during the Tamizhan Skills Internship Program. Each project is based on real-life problems from areas like health, finance, traffic, and social media. Using Python, these projects involve steps like collecting data, cleaning it, making graphs, building machine learning models, and checking their accuracy. Popular tools like Pandas, NumPy, Matplotlib, and Scikit-learn were used to complete these tasks.
 
 ### Out of 8 projects, I’ve completed 6 so far — the Sales Forecasting project is pending, and for Customer Segmentation, I’ve built the prototype and developed the model in Jupyter Notebook.
