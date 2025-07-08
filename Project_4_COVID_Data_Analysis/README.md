@@ -68,12 +68,6 @@ The dashboard was built using **Streamlit** for seamless web deployment and inte
 
 ---
 
-## Screenshots
-
-*(Add relevant screenshots here to enhance the README, e.g. dashboard views, charts, etc.)*
-
----
-
 ## Author
 
 Developed by **Soubhagya**  
@@ -81,7 +75,4 @@ RISE Internship | Tamizhan Skills
 
 ---
 
-## License
-
-This project is licensed under the MIT License.
 
