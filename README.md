@@ -1,5 +1,7 @@
 ### 📚 Tamizhan Skills Internship Projects
-This repository includes 8 practical projects completed during the Tamizhan Skills Internship Program. Each project is based on real-life problems from areas like health, finance, traffic, and social media. Using Python, these projects involve steps like collecting data, cleaning it, making graphs, building machine learning models, and checking their accuracy. Popular tools like Pandas, NumPy, Matplotlib, and Scikit-learn were used to complete these tasks.
+This repository includes 6 practical projects completed (out of 8) during the Tamizhan Skills Internship Program. Each project is based on real-life problems from areas like health, finance, traffic, and social media. Using Python, these projects involve steps like collecting data, cleaning it, making graphs, building machine learning models, and checking their accuracy. Popular tools like Pandas, NumPy, Matplotlib, and Scikit-learn were used to complete these tasks.
+
+### Out of 8 projects, I’ve completed 6 so far — the Sales Forecasting project is pending, and for Customer Segmentation, I’ve built the prototype and developed the model in Jupyter Notebook.
 
 The main goal of this internship was to help build real skills in data science and analytics through hands-on practice. These projects show how to turn data into useful insights in a simple and clear way. This collection is helpful for students, beginners in data science, or anyone who wants to improve their project portfolio with real examples.
 
@@ -62,7 +64,7 @@ The main goal of this internship was to help build real skills in data science a
 
 -  `Objective:` Predict and analyze student academic performance  
 -  `Key Tasks:` Analyze scores, study time, failure rates, dashboard UI  
--  `Tech Stack:` Python, Streamlit / Excel  
+-  `Tech Stack:` Power Bi software
 -  `Screenshot:` <img src="https://github.com/user-attachments/assets/fca6c09b-9da8-4372-ae6c-2ad1bbbca287" width="600"/>
 
 
@@ -81,7 +83,7 @@ The main goal of this internship was to help build real skills in data science a
 
 -  `Objective:` Analyze and forecast traffic congestion  
 -  `Key Tasks:` Study traffic patterns, peak hours, predictive modeling (optional)  
--  `Tech Stack:` Python, Streamlit, Google Maps API (optional)  
+-  `Tech Stack:` Python, Streamlit
 -  `Screenshot:` <img src="https://github.com/user-attachments/assets/61bbdd8e-3ffe-4214-8d52-eb47d76b7e95" width="600"/>
 
 ---
