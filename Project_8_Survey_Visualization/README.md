@@ -27,7 +27,7 @@ The dashboard was built using **Streamlit**, providing an accessible web-based i
 
 ---
 
-## 📈 Key Features & Visualizations
+## Key Features & Visualizations
 
 ✅ **Show Raw Data**  
 - Displays the raw survey dataset for transparency.
@@ -51,7 +51,7 @@ The dashboard was built using **Streamlit**, providing an accessible web-based i
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. Clone this repository.
 
@@ -73,7 +73,7 @@ The dashboard was built using **Streamlit**, providing an accessible web-based i
 
 ---
 
-## 💡 Insights Gained
+##  Insights Gained
 
 - Identified popular platforms preferred by different demographic groups.
 - Visualized age distribution among survey respondents.
@@ -81,7 +81,7 @@ The dashboard was built using **Streamlit**, providing an accessible web-based i
 
 ---
 
-## 👤 Author
+##  Author
 
 Developed by **Soubhagya**  
 RISE Internship | Tamizhan Skills
