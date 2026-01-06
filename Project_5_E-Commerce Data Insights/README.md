@@ -1,3 +1,11 @@
+
+## 🎥 Project Demo
+
+[![Project FULL Video](https://drive.google.com/file/d/1qdVtQ84FyK3zZOnD1EnOmFk2L0pv300f/view?usp=sharing)
+
+
+---
+
 # 🛍️ E-Commerce Performance Dashboard
 
 This project presents an interactive **E-Commerce Analytics Dashboard** developed during my **Tamizhan Skills Rise Internship**. The dashboard enables users to explore sales, profits, and customer behavior for an e-commerce business, providing powerful insights through dynamic charts and visualizations.
