@@ -1,3 +1,10 @@
+## 🎥 Project Demo
+
+[![Project Demo](<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/344b248d-39f8-4c08-82d4-7c5dfba8adc1" />
+)](https://drive.google.com/file/d/1LjSfbdLdYJcZZIYK-xmD4tsy_u3bmW53/view?usp=drive_link)
+
+
+---
 ## 📊 Customer Segmentation Analysis using K-Means
 
 This project showcases an end-to-end **Customer Segmentation Analysis** developed during my **Tamizhan Skills Rise Internship**. It combines detailed data exploration, machine learning clustering, and a fully interactive Streamlit web application for business stakeholders to analyze customer behavior, identify valuable segments, and optimize marketing strategies.
