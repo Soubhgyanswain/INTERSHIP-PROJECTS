@@ -1,4 +1,9 @@
+## 🎥 Project Demo
 
+
+https://github.com/user-attachments/assets/36008cbb-6a4c-40cb-9a2e-fa32ec075f65
+
+---
 # 🎓 Student Performance Analysis Dashboard
 
 This project presents an interactive **Student Performance Analysis Dashboard** developed during my **Tamizhan Skills Rise Internship**. The dashboard empowers users to explore and analyze student performance data through dynamic filters and insightful visualizations.
@@ -18,12 +23,7 @@ Key capabilities of the dashboard include:
 The dashboard was developed in **Streamlit** for web-based interactivity, and a complementary Power BI report offers additional visual exploration.
 
 ---
-## 🎥 Project Demo
 
-
-https://github.com/user-attachments/assets/36008cbb-6a4c-40cb-9a2e-fa32ec075f65
-
----
 ## 🔧 Tools & Technologies
 
 - Python
