@@ -1,7 +1,7 @@
 
 ## 🎥 Project Demo
 
-[![Project FULL Video](https://drive.google.com/file/d/1qdVtQ84FyK3zZOnD1EnOmFk2L0pv300f/view?usp=sharing)
+![**Project FULL Video**](https://drive.google.com/file/d/1qdVtQ84FyK3zZOnD1EnOmFk2L0pv300f/view?usp=sharing)
 
 
 ---
