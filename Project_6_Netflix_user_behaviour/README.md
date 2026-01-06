@@ -1,3 +1,11 @@
+## 🎥 Project Demo
+
+![**Project FULL Video**](https://drive.google.com/file/d/1Jh45yHzC_KO5uuXMYxaEMdqFGto2uU86/view?usp=sharing)
+
+
+---
+
+
 # 🎬 Netflix User Behaviour Dashboard
 
 This project presents an interactive **Netflix User Behaviour Dashboard** developed during my **Tamizhan Skills Rise Internship**. The dashboard provides in-depth analysis of user demographics, viewing preferences, and engagement patterns for Netflix users.
