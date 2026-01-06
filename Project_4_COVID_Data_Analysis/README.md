@@ -1,3 +1,11 @@
+## 🎥 Project Demo
+
+
+https://github.com/user-attachments/assets/7e868071-baee-44a9-b20a-349db1c72b95
+
+
+---
+
 # 🌍 COVID-19 Country-wise Data Analysis
 
 This project is an interactive **COVID-19 Country-wise Data Analysis Dashboard** developed during my **Tamizhan Skills Rise Internship**. The dashboard visualizes the global spread of COVID-19, helping users explore confirmed cases, deaths, recoveries, and active cases through insightful charts and metrics.
